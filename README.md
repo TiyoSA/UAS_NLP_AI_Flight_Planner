@@ -490,3 +490,16 @@ Gunakan `.env.example` sebagai contoh konfigurasi tanpa API key asli.
 Project **AI Flight Finder & Travel Planner** adalah sistem berbasis NLP/LLM yang membantu pengguna mencari dan memahami rekomendasi penerbangan. Sistem ini menggunakan LangChain untuk prompt dan chain, LangGraph untuk workflow, dan LangSmith untuk tracing.
 
 Dengan tambahan SearchAPI Google Flights, Gemini API, Streamlit, dan Plotly Globe Map, project ini menjadi aplikasi AI yang tidak hanya menjawab pertanyaan, tetapi juga mengambil data, menganalisis pilihan, menampilkan rekomendasi, dan memvisualisasikan rute penerbangan secara interaktif.
+
+
+## 16 SS 
+
+1. TAMPILAN AWAL 
+![alt text](image.png)
+
+2. GLOBE MAP 
+![alt text](image-1.png)
+
+3. HASIL OUTPUT REKOMENDASI 
+![alt text](image-2.png)
+![alt text](image-3.png)
